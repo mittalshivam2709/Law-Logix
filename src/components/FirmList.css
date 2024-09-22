@@ -1,0 +1,12 @@
+.firm-list {
+  margin: 20px;
+  padding: 0;
+}
+
+.firm-list-item {
+  transition: background-color 0.3s ease;
+}
+
+.firm-list-item:hover {
+  background-color: #f0f0f0;
+}
